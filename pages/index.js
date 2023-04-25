@@ -23,10 +23,8 @@ export default function Home() {
               <p className={styles.infotext}>Selecciona el piso en el que te encuentras</p>
             </div>
             <div className={styles.main_div} >
-              <a className={styles.menua} href="/galery?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-                
+              <a className={styles.menua} href="/visit?floor=2&lang=1&count=0" >Guide<Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=1" >Galery<Image alt="" width={400} height={115} src="/centerbtn.png"/></a> 
             </div>
             <h1 className={styles.Info}>Selecciona tu lenguaje preferido:</h1>
             <div className={styles.languajeSelector}>
@@ -55,9 +53,8 @@ export default function Home() {
               <p className={styles.infotext}>Selecciona el pis en el que et trobes</p>
             </div>
             <div className={styles.main_div} >
-              <a className={styles.menua} href="/galery?floor=1&lang=2" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=2" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=2" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
+              <a className={styles.menua} href="/visit?floor=2&lang=2&count=0" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=2" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
                 
             </div>
             <h1 className={styles.Info} >Selecciona el teu idioma preferit:</h1>
@@ -87,9 +84,8 @@ export default function Home() {
               <p className={styles.infotext}>Sélectionnez l&apos'étage où vous vous trouvez</p>
             </div>
             <div className={styles.main_div} >
-              <a className={styles.menua} href="/galery?floor=1&lang=3" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=3" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=3" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
+              <a className={styles.menua} href="visit?floor=2&lang=3&count=0" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=3" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
                 
             </div>
             <h1 className={styles.Info} >Sélectionnez votre langue préférée:</h1>
@@ -120,9 +116,8 @@ export default function Home() {
               <p className={styles.infotext}>Seleziona il piano in cui ti trovi</p>
             </div>
             <div className={styles.main_div} >
-              <a className={styles.menua} href="/galery?floor=1&lang=4" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=4" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=4" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
+              <a className={styles.menua} href="/visit?floor=2&lang=4&count=0" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=4" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
                 
             </div>
             <h1 className={styles.Info} >Seleziona la tua lingua preferita:</h1>
@@ -152,9 +147,8 @@ export default function Home() {
             <p className={styles.infotext}>Select the floor where you are</p>
           </div>
           <div className={styles.main_div} >
-            <a className={styles.menua} href="/galery?floor=1&lang=5" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=5" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=5" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
+            <a className={styles.menua} href="/visit?floor=2&lang=5&count=0" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=5" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
               
           </div>
           <h1 className={styles.Info} >Select your preferred languaje:</h1>
@@ -184,9 +178,8 @@ export default function Home() {
               <p className={styles.infotext}>Select the floor where you are</p>
             </div>
             <div className={styles.main_div} >
-              <a className={styles.menua} href="/galery?floor=1&lang=5" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=2&lang=5" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              <a className={styles.menua} href="/galery?floor=3&lang=5" ><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
+              <a className={styles.menua} href="/visit?floor=2&lang=5&count=0" ><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
+              <a className={styles.menua} href="/galery?lang=5" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
                 
             </div>
             <h1 className={styles.Info} >Select your preferred languaje:</h1>
