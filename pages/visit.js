@@ -78,7 +78,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {spninfo.ES.Floor1[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(spninfo.ES.Info.Floor1Size) - 1){ nextPage(); play();} else{redirect("2","1");}}}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(spninfo.ES.Info.Floor1Size) - 1){ nextPage(); play();} else{redirect("3","1");}}}>NEXT</button>
                   </div>
                 </div>
 
@@ -106,7 +106,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {spninfo.ES.Floor2[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(spninfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("3","1");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(spninfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("1","1");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -162,7 +162,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {catinfo.ES.Floor1[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(catinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("2","2");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(catinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("3","2");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -189,7 +189,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {catinfo.ES.Floor2[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(catinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("3","2");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(catinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("1","2");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -245,7 +245,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {frinfo.ES.Floor1[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(frinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("2","3");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(frinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("3","3");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -272,7 +272,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {frinfo.ES.Floor2[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(frinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("3","3");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(frinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("1","3");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {itinfo.ES.Floor1[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(itinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("2","4");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(itinfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("3","4");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {itinfo.ES.Floor2[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(itinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("3","4");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(itinfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("1","4");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor1[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(enginfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("2","5");}; }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(enginfo.ES.Info.Floor1Size) - 1) { nextPage(); play();}else{redirect("3","5");}; }}>NEXT</button>
                   </div>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor2[count].shortDesc} </p>
                   <div className={styles.navbuttonscontainer}>
                     <button className={styles.navbutton} onClick={() => { if (count > 0) previousPage(); play() }}>PREVIOUS</button>
-                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(enginfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("3","5");} }}>NEXT</button>
+                    <button className={styles.navbutton} onClick={() => { if (count < parseInt(enginfo.ES.Info.Floor2Size) - 1) { nextPage(); play();}else{redirect("1","5");} }}>NEXT</button>
                   </div>
                 </div>
               </div>
