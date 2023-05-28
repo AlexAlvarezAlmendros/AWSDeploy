@@ -71,7 +71,7 @@
 }
 
 .logo {
-  width: 90pt;
+  width: 70vw;
   height: auto;
   pointer-events: none;
   align-self: center;
@@ -80,6 +80,7 @@
 .infotext{
   font-size: 11pt;
   align-self: center;  
+  margin: 10vw;
   margin-bottom: 50px;
 }
 
@@ -133,23 +134,27 @@ align-self: baseline;
 }
 
 .menua {
-  appearance: none;
-  background-color: #FAFBFC;
-  border: 1px solid rgba(27, 31, 35, 0.15);
-  border-radius: 6px;
-  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
-  font-size: 10vw;
-  text-align: center;
+  background: #ff5353;
+  border-radius: 999px;
+  box-shadow: #d54b4b 0 10px 20px -10px;
   box-sizing: border-box;
-  color: #24292E;
-  display: inline-block;
-  width: 75vw;
-  padding-top: 4vw;
-  padding-bottom: 4vw;
-  position: relative;
-  margin-bottom: 5vw;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 12vw;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8vw 18vw;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  margin-bottom: 10vw;
 }
-
 .header_div {
   display: flex;
   flex-direction: column;

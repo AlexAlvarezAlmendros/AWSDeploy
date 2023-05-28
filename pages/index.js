@@ -24,7 +24,7 @@ export default function Home() {
             </div>
             <div className={styles.main_div} >
               <a className={styles.menua} href="/visit?floor=2&lang=1&count=0" >EMPEZAR</a>
-              <a className={styles.menua} href="/galery?lang=1" >GALERIA</a> 
+              <a className={styles.menua} href="/galery?lang=1&floor=1" >GALERIA</a> 
             </div>
             <h1 className={styles.Info}>Selecciona tu lenguaje preferido:</h1>
             <div className={styles.languajeSelector}>
@@ -54,7 +54,7 @@ export default function Home() {
             </div>
             <div className={styles.main_div} >
               <a className={styles.menua} href="/visit?floor=2&lang=2&count=0" >COMENÇAR</a>
-              <a className={styles.menua} href="/galery?lang=2" >GALERIA</a>
+              <a className={styles.menua} href="/galery?lang=2&floor=1" >GALERIA</a>
                 
             </div>
             <h1 className={styles.Info} >Selecciona el teu idioma preferit:</h1>
@@ -85,7 +85,7 @@ export default function Home() {
             </div>
             <div className={styles.main_div} >
               <a className={styles.menua} href="visit?floor=2&lang=3&count=0" >COMMENCER</a>
-              <a className={styles.menua} href="/galery?lang=3" >GALERIE</a>
+              <a className={styles.menua} href="/galery?lang=3&floor=1" >GALERIE</a>
                 
             </div>
             <h1 className={styles.Info} >Sélectionnez votre langue préférée:</h1>
@@ -117,7 +117,7 @@ export default function Home() {
             </div>
             <div className={styles.main_div} >
               <a className={styles.menua} href="/visit?floor=2&lang=4&count=0" >INIZIO</a>
-              <a className={styles.menua} href="/galery?lang=4" >GALLERIA</a>
+              <a className={styles.menua} href="/galery?lang=4&floor=1" >GALLERIA</a>
                 
             </div>
             <h1 className={styles.Info} >Seleziona la tua lingua preferita:</h1>
@@ -148,7 +148,7 @@ export default function Home() {
           </div>
           <div className={styles.main_div} >
             <a className={styles.menua} href="/visit?floor=2&lang=5&count=0" >START</a>
-              <a className={styles.menua} href="/galery?lang=5" >GALERY</a>
+              <a className={styles.menua} href="/galery?lang=5&floor=1" >GALERY</a>
               
           </div>
           <h1 className={styles.Info} >Select your preferred languaje:</h1>
@@ -179,7 +179,7 @@ export default function Home() {
             </div>
             <div className={styles.main_div} >
               <a className={styles.menua} href="/visit?floor=2&lang=5&count=0" >START</a>
-              <a className={styles.menua} href="/galery?lang=5" >GALERY</a>
+              <a className={styles.menua} href="/galery?lang=5&floor=1" >GALERY</a>
                 
             </div>
             <h1 className={styles.Info} >Select your preferred languaje:</h1>
