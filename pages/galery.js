@@ -74,8 +74,8 @@ export default function Galery({ info }) {
       return (
           <div onLoad={() => {FillContent(info)}} className={styles.container}>
             <Head>
-              <title>Espacio Trafalgar</title>
-              <meta name="description" content="Audio Guide from Espacio Trafalgar" />
+              <title>BANKSY</title>
+              <meta name="description" content="Audio Guide from Museu Banksy" />
               <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"></meta>
               <link rel="icon" href="/favicon.ico" />
             </Head>

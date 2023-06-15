@@ -75,13 +75,13 @@
   height: auto;
   pointer-events: none;
   align-self: center;
+  padding-bottom: 10vw;
 }
 
 .infotext{
   font-size: 11pt;
   align-self: center;  
-  margin: 10vw;
-  margin-bottom: 50px;
+  margin: 5vw;
 }
 
 .langButton{
@@ -119,7 +119,6 @@
 color: rgb(37, 37, 37);
 margin-left: 7%;
 font-size: 12pt;
-margin-top: 30px;
 align-self: baseline;
 }
 
@@ -133,6 +132,19 @@ align-self: baseline;
   margin-bottom: 25px;
 }
 
+.menub{
+  background: #d54b4b;
+  border-radius: 20px;
+  box-shadow: #d54b4b 0 10px 20px -10px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-bottom: 10vw;
+  padding: 0%;
+  padding-bottom: -5px;
+}
+
 .menua {
   background: #ff5353;
   border-radius: 999px;
@@ -141,7 +153,7 @@ align-self: baseline;
   color: #FFFFFF;
   cursor: pointer;
   font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
-  font-size: 12vw;
+  font-size:8vw;
   font-weight: 700;
   line-height: 24px;
   opacity: 1;
@@ -150,10 +162,11 @@ align-self: baseline;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: fit-content;
+  width: 95vw;
   word-break: break-word;
   border: 0;
   margin-bottom: 10vw;
+  text-align: center;
 }
 .header_div {
   display: flex;
