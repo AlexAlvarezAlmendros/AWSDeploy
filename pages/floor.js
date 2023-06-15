@@ -28,14 +28,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=3&lang=1&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
                 
             </div>
-            <h1 className={styles.Info}>Selecciona tu lenguaje preferido:</h1>
-            <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-            </div>
           </div>
         </div>
       )
@@ -58,15 +50,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=1&lang=2&count=0" ><Image alt="" width={300} height={115} src="/topbtn.png"/></a>
               <a className={styles.menub} href="/visit?floor=2&lang=2&count=0" ><Image alt="" width={300} height={115} src="/centerbtn.png"/></a>
               <a className={styles.menub} href="/visit?floor=3&lang=2&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
-                
-            </div>
-            <h1 className={styles.Info} >Selecciona el teu idioma preferit:</h1>
-            <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -92,14 +75,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=3&lang=3&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
                 
             </div>
-            <h1 className={styles.Info} >Sélectionnez votre langue préférée:</h1>
-            <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-            </div>
           </div>
         </div>
       )
@@ -123,14 +98,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=2&lang=4&count=0" ><Image alt="" width={300} height={115} src="/centerbtn.png"/></a>
               <a className={styles.menub} href="/visit?floor=3&lang=4&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
                 
-            </div>
-            <h1 className={styles.Info} >Seleziona la tua lingua preferita:</h1>
-            <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -156,14 +123,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=3&lang=5&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
               
           </div>
-          <h1 className={styles.Info} >Select your preferred languaje:</h1>
-          <div className={styles.languajeSelector}>
-            <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-          </div>
         </div>
       </div>
     )
@@ -187,15 +146,6 @@ export default function Floors() {
               <a className={styles.menub} href="/visit?floor=2&lang=5&count=0" ><Image alt="" width={300} height={115} src="/centerbtn.png"/></a>
               <a className={styles.menub} href="/visit?floor=3&lang=5&count=0" ><Image alt="" width={300} height={115} src="/botombtn.png"/></a>
                 
-            </div>
-            <h1 className={styles.Info} >Select your preferred languaje:</h1>
-            <div className={styles.languajeSelector}>
-
-            <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
