@@ -9,8 +9,23 @@ let index = 0;
 let url = " ";
 
 export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
-  const [count, setCount] = React.useState(0);
   const router = useRouter();
+  const [count, setCount] = useState(0);
+  const [floor, setFloor] = useState(null);
+  const [lang, setLang] = useState(null);
+
+  useEffect(() => {
+    if (router.query.count) {
+      setCount(parseInt(router.query.count));
+    }
+    if (router.query.floor) {
+      setFloor(router.query.floor);
+    }
+    if (router.query.lang) {
+      setLang(router.query.lang);
+    }
+  }, [router.query]);
+
   function play() {
     console.log("DEBUG: count: " + count);
     var audio = document.getElementById("audioSrc");
@@ -27,31 +42,19 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo}) {
     }
   }
 
-  function nextPage(){
-    
-    let queryString = window.location.search;
-    let urlParams = new URLSearchParams(queryString);
-    let tmpfloor = urlParams.get('floor');
-    let tmplang = urlParams.get('lang');
-    let tmpcount = parseInt(urlParams.get('count'));
-    window.location.replace(document.location.origin + "/visit?floor=" + tmpfloor + "&lang=" + tmplang + "&count=" + (tmpcount + 1));
+  function nextPage() {
+    router.push(`/visit?floor=${floor}&lang=${lang}&count=${count + 1}`);
   }
 
-  function previousPage(){
-    
-    let queryString = window.location.search;
-    let urlParams = new URLSearchParams(queryString);
-    let tmpfloor = urlParams.get('floor');
-    let tmplang = urlParams.get('lang');
-    let tmpcount = parseInt(urlParams.get('count'));
-    window.location.replace(document.location.origin + "/visit?floor=" + tmpfloor + "&lang=" + tmplang + "&count=" + (tmpcount - 1));
+  function previousPage() {
+    router.push(`/visit?floor=${floor}&lang=${lang}&count=${count - 1}`);
   }
-  
-  function redirect(floor, lang) {
-    if(floor != "home"){
-      window.location.replace(document.location.origin + "/visit?floor=" + floor + "&lang=" + lang + "&count=0");
-    }else{
-      window.location.replace(document.location.origin + "?lang=" + lang);
+
+  function redirect(newFloor, newLang) {
+    if (newFloor !== "home") {
+      router.push(`/visit?floor=${newFloor}&lang=${newLang}&count=0`);
+    } else {
+      router.push(`/?lang=${newLang}`);
     }
   }
   console.log("LANG: " + router.query.lang);

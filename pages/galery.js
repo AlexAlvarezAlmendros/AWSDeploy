@@ -32,8 +32,10 @@ export default function Galery({ info }) {
         lastRow = table.rows[(i-1)/2];
       }
       let cell = lastRow.insertCell(index-1);
+      cell.className = styles.cellgal;
       cell.style = "width: 50%;"
       let button = document.createElement('a');
+      button.className = styles.buttongal;
 
       let queryString = window.location.search;
       let urlParams = new URLSearchParams(queryString);
@@ -53,7 +55,7 @@ export default function Galery({ info }) {
       }
 
       let img = document.createElement('img');
-      img.style = "width: 100%"
+      img.className = styles.imggal;
       img.src = "images/".concat(floorInfo.ES.Paintings[i].image);
       
       button.appendChild(img);
@@ -80,15 +82,19 @@ export default function Galery({ info }) {
               <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className={styles.main}>
-            <table id='tablaPrincipal' className={styles.tabladeobras}>
-              <thead></thead>
-              <tbody>
-                <tr>
-                  <td><img id='firstImg' src="/images/AACHOO.jpg" alt="Imagen 3"/></td>
-                  <td></td>
-                </tr>
-              </tbody>
-            </table>
+              <div className={styles.tableContainer}>
+                <div id='galleryGrid' className={styles.galleryGrid}>
+                  <table id='tablaPrincipal' className={styles.tabladeobras}>
+                    <thead></thead>
+                    <tbody>
+                      <tr>
+                        <td><img id='firstImg' src="/images/AACHOO.jpg" alt="Imagen 3"/></td>
+                        <td></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
             </div>
           </div>
       )

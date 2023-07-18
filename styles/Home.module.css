@@ -176,6 +176,53 @@ align-self: baseline;
   height: auto;
   padding-top: 50px;
 }
+.imggal {
+  /* Define el tamaño máximo de las imágenes */
+  max-width: 100%;
+  max-height: auto;
+
+  /* Define el radio del borde para redondear las imágenes */
+  border-radius: 10%;
+
+  /* Define la sombra de las imágenes para dar la apariencia de que están levantadas */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+
+  /* Define cómo se debe recortar la imagen */
+  object-fit: cover;
+  
+  /* Define las dimensiones de la imagen para mantener una proporción 1:1 */
+  width: 300px;
+  height: 300px;
+}
+.tableContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Ajusta estas propiedades si necesitas más espacio alrededor de la tabla */
+  padding: 5px;
+}
+.galleryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Este tamaño puedes ajustarlo */
+  gap: 20px; /* Este es el espacio entre las imágenes, puedes ajustarlo a tu gusto */
+}
+
+.galleryGrid img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 10px; /* Ajusta esto para el redondeado de las imágenes */
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); /* Ajusta esto para la sombra */
+}
+.cellgal {
+  /* Centra las imágenes dentro de sus celdas */
+}
+
+.buttongal {
+  /* Remueve el estilo por defecto de los enlaces */
+  text-decoration: none;
+}
 .header_div_visit {
   display: flex;
   flex-direction: column;
