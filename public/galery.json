@@ -21,6 +21,14 @@
                 "shortDesc": "Apareciendo originalmente en Londres, en el distrito de South Bank, este trabajo es sin duda uno de los más emblemáticos de Banksy. Hay muchas interpretaciones, pero estamos de acuerdo en que esta joven niña intenta atrapar o deja volar un globo rojo en la forma de un corazón (el rojo es el único color de esta plantilla). El globo representa un símbolo de fragilidad, inocencia, esperanza o amor. ¿Intentará atraparlo o dejará que el globo vuele lejos"
             },
             {
+                "image": "NO_FUTURE.jpg",
+                "audio": "NO_FUTURE.mp3",
+                "title": "NO FUTURE",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Un niño sentado en el suelo sostiene con su mano un globo que forma la \"O\" de \"NO FUTURE\". Esta pintura, como muchas otras, fue cubierta poco después. El toque poético de Banksy casi nos hace olvidar la visión pesimista que se puede encontrar en muchas de sus obras."
+            },
+            {
                 "image": "SEASONS_GREETINGS.jpg",
                 "audio": "SEASONS_GREETINGS.mp3",
                 "title": "SEASONS GREETINGS",
@@ -141,14 +149,6 @@
                 "shortDesc": "Banksy une aquí imagen emblemática y humor irreverente en una proeza de la que solamente él conoce el secreto. Ilustrando a la perfección la inocen-cia risueña de Jack y Jill, este retrato idílico queda ensombrecido por Los chalecos antibalas de la policía que llevan para protegerse. Banksy expresa su desprecio hacia las fuerzas del orden."
             },
             {
-                "image": "KISSING_COPPERS.jpg",
-                "audio": "KISSING_COPPERS.mp3",
-                "title": "KISSING COPPERS",
-                "year": "2005",
-                "location": "Brighton / Reino Unido",
-                "shortDesc": "Sacudir el orden establecido pero enviar un mensaje que habla a todo el mundo: no es la primera vez que el artista realiza este tipo de acción artística. La obra de Banksy creada en el centro de Brighton se abrió camino para ser subastada en 2014 en Miami por la suma de 520.000 euros (el comprador permaneció en el anonimato)."
-            },
-            {
                 "image": "RUDE_COPPER.jpg",
                 "audio": "RUDE_COPPER.mp3",
                 "title": "RUDE COPPER",
@@ -179,6 +179,14 @@
                 "year": "2006",
                 "location": "",
                 "shortDesc": "“Me parece que la mejor manera de ganar dinero fuera del arte es ni siquiera intentarlo. No se necesita mucho para ser un artista exitoso, todo lo que necesitas hacer es dedicar toda tu vida a ello. Lo que la gente más admiraba de Picasso no era su equilibrio entre el trabajo y la vida \". - Banksy, Village Voice 2013"
+            },
+            {
+                "image": "LUXURY_RENTALS_ONLY.jpg",
+                "audio": "LUXURY_RENTALS_ONLY.mp3",
+                "title": "LUXURYRENTALSONLY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "The work is part of the \"Great British Spraycation\" project that banksy carried out during the summer of 2021 in Cromer, a maritime city in the Norwich region of England. The graffiti illustrates some crabs showing the sign \"Luxury rentals only\", prohibiting the passage to another of the same species. It is a provocation of the artist against exorbitant prices and inaccessible."
             },
             {
                 "image": "GORILLA_IN_A_PINK_MASK.jpg",
@@ -389,22 +397,6 @@
                 "shortDesc": "Dos nuevas obras de arte de Banksy aparecieron en el Barbican Centre en el centro de Londres en septiembre de 2017. Los murales, inspirados en la exposición de Jean-Michel Basquiat en el Barbican Centre, se confirmaron como originales en las obras de arte del artista en una serie de publicaciones en Instagram. Banksy dijo: \"El nuevo e importante espectáculo de Basquiat se abre en el Barbican, un lugar que normalmente está muy interesado en limpiar cualquier graffiti de sus paredes\""
             },
             {
-                "image": "MORONS.jpg",
-                "audio": "MORONS.mp3",
-                "title": "MORONS",
-                "year": "2006",
-                "location": "",
-                "shortDesc": "“Me parece que la mejor manera de ganar dinero fuera del arte es ni siquiera intentarlo. No se necesita mucho para ser un artista exitoso, todo lo que necesitas hacer es dedicar toda tu vida a ello. Lo que la gente más admiraba de Picasso no era su equilibrio entre el trabajo y la vida \". - Banksy, Village Voice 2013"
-            },
-            {
-                "image": "WESTON_SUPER_MARE.jpg",
-                "audio": "WESTON_SUPER_MARE.mp3",
-                "title": "WESTON SUPER MARE",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "Con cierta ironía, Banksy describe esta obra de arte como “un alegre tributo a las grandes ciudades costeras británicas”. \"Weston Super Mare\" presenta a un anciano sentado en un banco, con las manos cruzadas sobre su regazo, su bastón descansando junto a él, felizmente inconsciente del peligro que se avecina en forma de una sierra circular que se abre paso a través del paseo marítimo."
-            },
-            {
                 "image": "HAPPY_CHOPPER_CRUDE_OIL.jpg",
                 "audio": "HAPPY_CHOPPER_CRUDE_OIL.mp3",
                 "title": "HAPPY CHOPPER CRUDE OIL",
@@ -469,22 +461,6 @@
                 "shortDesc": "Los monos se han acercado un paso más hacia \"El Planeta de los Simios\", empuñando armas de fuego, un favorito desde hace mucho tiempo entre los humanos según los antropólogos."
             },
             {
-                "image": "LAUGH_NOW.jpg",
-                "audio": "LAUGH_NOW.mp3",
-                "title": "LAUGH NOW",
-                "year": "2002",
-                "location": "Los Ángeles / EE. UU",
-                "shortDesc": "Apareciendo por primera vez en la pared de una discoteca en Brighton en 2002, este trabajo y el carácter del mono ha sido utilizado muchas veces por Banksy. Ejemplo perfecto del humor negro que ha mostrado desde sus inicios, Banksy sitúa su obra entre una crítica del hombre que esclaviza a otros seres vivos y una alerta sobre una revolución. Banksy muestra a este mono, como a un hombre llevando un mensaje ominoso: “Laugh now, but one day we’ll be in charge” (\"Ríete ahora, pero un día estaremos a cargo\"). La referencia al Planeta de los Simios, película de culto y sin duda contemporánea para Banksy, es también bastante obvia."
-            },
-            {
-                "image": "RAGE_FLOWER_THROWER.jpg",
-                "audio": "RAGE_FLOWER_THROWER.mp3",
-                "title": "FLOWER THROWER",
-                "year": "2003",
-                "location": "Muro de Belén",
-                "shortDesc": "Uno podría esperar ver a este hombre lanzar un cóctel Molotov o un adoquín. Sin embargo, es un ramo de flores (la única parte de esta obra en colores) que está a punto de arrojar a la persona que viene hacia él, como un mensaje de paz. Este trabajo, pintado en medio de una zona de conflicto, realmente deja una impresión, y una vez más muestra a un Banksy que adopta una actitud decididamente pacifista y antimilitarista."
-            },
-            {
                 "image": "CND_SOLDIERS.jpg",
                 "audio": "CND_SOLDIERS.mp3",
                 "title": "CND SOLDIERS",
@@ -499,14 +475,6 @@
                 "year": "2006",
                 "location": "",
                 "shortDesc": "Una crítica extremadamente ingeniosa de la sociedad del mundo del espectáculo. los aviones despegando de un portaaviones reciben \"apoyo moral\" de una pancarta para obtener un aplauso de los pagados espectadores de un programa en un estudio de televisión."
-            },
-            {
-                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
-                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
-                "title": "FLOWER THROWER CCCP",
-                "year": "2003",
-                "location": "Muro de Belén",
-                "shortDesc": "Acaso una muestra más de la fascinación de Banksy por Lenin, el Lanzador de Flores es presentado aquí frente a las siglas de su herencia."
             },
             {
                 "image": "GOLF_SALE.jpg",
@@ -579,14 +547,6 @@
                 "year": "2003",
                 "location": "",
                 "shortDesc": "Esta obra de arte muestra un famoso retrato de Winston Churchill, convertido en un icono del punk rock con un mechón verde del pelo mohicano que se remonta a los disturbios de mayo de 2000 en Londres, conocido como \"Turf Wars\". Una línea de hierba verde atraviesa el pez gordo inglés, difuminando las líneas entre el sarcasmo y el comentario político. La mata de hierba que él manifestante había desenterrado de la Plaza del Parlamento ha sido delicadamente colocada sobre la cabeza de Churchill."
-            },
-            {
-                "image": "THERE_IS_ALWAYS_HOPE.jpg",
-                "audio": "THERE_IS_ALWAYS_HOPE.MP3",
-                "title": "GIRL WITH BALLON",
-                "year": "2003",
-                "location": "",
-                "shortDesc": "Evocadora y cariñosa a primera vista, \"GIRL WITH BALLOON\" desequilibra al espectador después de que la primera impresión de la compasión desaparece. ¿La niña ha soltado el globo, habiendo renunciado al amor perdido, o aceptado que ella necesita llegar a la cima del orden social? ¿O ha perdido el control de la sociedad, condenada a buscar desesperadamente ese sentimiento que es la principal necesidad de un ser humano?"
             },
             {
                 "image": "TOXIC_MARY.jpg",
@@ -667,14 +627,6 @@
                 "year": "2002",
                 "location": "Los Ángeles / EE. UU",
                 "shortDesc": "En abril de 2018, Banksy reconoció oficialmente ser el autor de We loot, you shoot, el mural que apareció en Nueva York a resultas de un pequeño viaje que hizo por Estados Unidos. El estarcido muestra a un hombre de negocios vestido con un traje de la Bolsa de Nueva York (NYSE, New York Stock Exchange), huyendo con un puñado de dólares en la mano. Esta es la segunda pieza de Banksy que hace referencia a la bolsa y los mercados financieros, y otra lacerante crítica del capitalismo. En las semanas que siguieron a los huracanes Katrina (2005), Ike (2008), Sandy (2012) y Harvey (2017), se advertía a los potenciales ladrones de que se había habilitado a un cuerpo de justicieros con derecho a usar armas para cualesquiera crímenes que atentaran contra la propiedad, y se hizo mediante carteles pintados a mano que rezaban: “Tú saqueas, nosotros disparamos”. La autorización para recurrir a la fuerza letal por parte de la policía se remonta al terremoto de San Francisco de 1906, en que el alcalde Eugene Schmitz declaró: “He autorizado a las tropas federales que patrullan parte de la ciudad, así como a los agentes especiales de la policía, para matar a cualquier persona que encuentren saqueando propiedad privada o cometiendo algún crimen”. Desde 2005, han circulado testimonios de policías disparando a ciudadanos afroamericanos en Nueva Orleans tras el huracán Katrina, en especial en el barrio de Algiers Point. En 2010, el diario The New Orleans Times-Picayune, informó de que la policía había sido autorizada para disparar a los saqueadores, aunque ninguno de los agentes implicados en los 11 tiroteos con civiles alegó dicha orden en su defensa. El alcalde Ray Nagin pidió la declaración de la ley marcial para responder a los saqueos generalizados, pero carecía de la autoridad para hacerlo. "
-            },
-            {
-                "image": "WESTON_SUPER_MARE.jpg",
-                "audio": "WESTON_SUPER_MARE.mp3",
-                "title": "WESTON SUPER MARE",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "Con cierta ironía, Banksy describe esta obra de arte como “un alegre tributo a las grandes ciudades costeras británicas”. \"Weston Super Mare\" presenta a un anciano sentado en un banco, con las manos cruzadas sobre su regazo, su bastón descansando junto a él, felizmente inconsciente del peligro que se avecina en forma de una sierra circular que se abre paso a través del paseo marítimo."
             },
             {
                 "image": "CAMERAMAN_AND_FLOWER.jpg",
@@ -781,14 +733,6 @@
                 "shortDesc": "No es solo un ataque flagrante sobre el consumismo en general, pero también se burla de cómo la Navidad se ha convertido en una de las fechas más importantes para la histeria consumista de masas."
             },
             {
-                "image": "MORONS.jpg",
-                "audio": "MORONS.mp3",
-                "title": "MORONS",
-                "year": "2006",
-                "location": "",
-                "shortDesc": "“Me parece que la mejor manera de ganar dinero fuera del arte es ni siquiera intentarlo. No se necesita mucho para ser un artista exitoso, todo lo que necesitas hacer es dedicar toda tu vida a ello. Lo que la gente más admiraba de Picasso no era su equilibrio entre el trabajo y la vida \". - Banksy, Village Voice 2013"
-            },
-            {
                 "image": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.jpg",
                 "audio": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.mp3",
                 "title": "PILLOW FIGHT",
@@ -797,12 +741,36 @@
                 "shortDesc": "Banksy creó esta plantilla en una de las habitaciones del Walled Off Hotel, que él ha decorado junto con otros artistas y diseñadores internacionales, frente al muro de Belén. Reconocemos el toque del maestro del street art y su sentido del humor. El israelí (el soldado) y el Palestino (el manifestante) solo podían luchar de una manera en esta habitación de hotel... ¡con almohadas!"
             },
             {
+                "image": "EVEN_A_SUICIDE_BOMBER_NEEDS_A_HUG.jpg",
+                "audio": "EVEN_A_SUICIDE_BOMBER_NEEDS_A_HUG.mp3",
+                "title": "EVEN A SUICIDE BOMBER NEEDS A HUG",
+                "year": "2005",
+                "location": "Walled Off Hotel",
+                "shortDesc": "Banksy in this 2005 work involves a painting representing the Virgin with the child Jusus, one of the most represented themes in history. By adding an explosive package, the artist totally transforms the meaning of the work, which becomes a strong provocation. Banksy creates a striking contrast between the sweetness of the classic scene and the bombs represented in a very aggressive red."
+            },
+            {
                 "image": "GUANTANAMO_BAY.jpg",
                 "audio": "GUANTANAMO_BAY.mp3",
                 "title": "GUANTANAMO BAY",
                 "year": "2006",
                 "location": "",
                 "shortDesc": "Banksy ha puesto a prisioneros de Guantánamo en muchos lugares pero ninguno ha llegado más cerca que esta pieza ejemplar de poderosa yuxtaposición en la que el prisionero arrodillado tiene vistas a una hermosa e idílica pintura de un mar con choques de olas casi hiperrealistas."
+            },
+            {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Belén",
+                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
+            },
+            {
+                "image": "FETISH_LADY.jpg",
+                "audio": "FETISH_LADY.mp3",
+                "title": "FETISH_LADY BAY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "This 16th century inspired portrait depicts a seated woman in an antique dress in a classical resting pose in a green, forested setting. A leather mask is the only thing that seems out of place... creating a stark, but incredibly compelling contrast. Perhaps the dress is part of his confinement or perhaps the mask represents the true personality of this character. Whatever the case, Banksy once again offers us a liberated and offbeat interpretation of the classic portraits of the period."
             },
             {
                 "image": "PARADISE.jpg",
