@@ -5,14 +5,6 @@
         },
         "Paintings": [
             {
-                "image": "NO_FUTURE.jpg",
-                "audio": "NO_FUTURE.mp3",
-                "title": "NO FUTURE",
-                "year": "2010",
-                "location": "Southampton / Reino Unido",
-                "shortDesc": "Un niño sentado en el suelo sostiene con su mano un globo que forma la \"O\" de \"NO FUTURE\". Esta pintura, como muchas otras, fue cubierta poco después. El toque poético de Banksy casi nos hace olvidar la visión pesimista que se puede encontrar en muchas de sus obras."
-            },
-            {
                 "image": "THERE_IS_ALWAYS_HOPE.jpg",
                 "audio": "THERE_IS_ALWAYS_HOPE.mp3",
                 "title": "THERE IS ALWAYS HOPE",
