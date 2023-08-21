@@ -243,6 +243,14 @@
                 "shortDesc": "Banksy painted this work around mid-May of 2012. A child, kneeling in front of a sewing machine, assembles banners made up of Union Jacks (the flag of the United Kingdom). Today there are still three possible interpretations of this stencil: the first would be a condemnation of the use of children in sweatshops for making goods (Banksy points the finger among others at the chain store Poundland). The second would be a satirical attack on the British monarchy and the Diamond Jubilee of Queen Elizabeth II. The Queen celebrated 60 years on the throne that year. Finally, the last interpretation would be directly linked to the organisation of the 2012 Summer Olympic Games which was to be held in London a few weeks later, and which in particular saw souvenir shops proliferating all over the city."
             },
             {
+                "image": "SPACE_GIRLS_AND_BIRD.jpg",
+                "audio": "SPACE_GIRLS_AND_BIRD.mp3",
+                "title": "SPACE GIRLS AND BIRD",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "This piece was commissioned by the famous british rock band Blur for the cover of their \"Think Tank\" album, released in 2003. The little girl is wearing a parka jacket and a deep-sea diving helmet, looking down at the yellow bird she is holding with her hand. Usually Banksy avoids any commercial collaboration, he later defended his decision, saying: \"I've done a few things to pay the bills, and I did the Blur album. It was a good record and [the commission was] quite a lot of money. I think that's a really important distinction to make. If it's something you actually believe in, doing something commercial doesn't turn it to shit just because it's commercial. Otherwise you've got to be a socialist rejecting capitalism altogether, because the idea that you can marry a quality product with a quality visual and be a part of that even though it's capitalistic is sometimes a contradiction you can't live with. But sometimes it's pretty symbiotic, like the Blur situation.\""
+            },
+            {
                 "image": "GRANNIES.jpg",
                 "audio": "GRANNIES.mp3",
                 "title": "GRANNIES",
@@ -502,14 +510,6 @@
                 "shortDesc": "Silhouettes of a young boy and a girl, holding their toys in hand, high up on a mountain of weapons, the girl is holding a heartshaped red balloon on a string. It is another work depicting his iconic balloon girl. The simplicity and severity of the colour contrasts give it both beauty and deeper meaning, making it one of the artists more sombre pieces."
             },
             {
-                "image": "RED_LENIN.jpg",
-                "audio": "RED_LENIN.mp3",
-                "title": "RED LENIN",
-                "year": "2007",
-                "location": "",
-                "shortDesc": "This artwork is one of Banksy’s most widely recognized images. As mocking world leaders is part of Banksy’s works, this piece exemplifies how Lenin would look on roller skates, or waist up, with his extended hand in a revolutionary speech he could have been giving. One could also surmise a sense of “humanizing” the individual."
-            },
-            {
                 "image": "FLYING_COPPER.jpg",
                 "audio": "FLYING_COPPER.mp3",
                 "title": "FLYING COPPER",
@@ -532,6 +532,14 @@
                 "year": "2003",
                 "location": "",
                 "shortDesc": "A perfectly executed piece in vibrant details, Happy Chopper is a child’s dream of war. This without any real understanding of the actual implications of war. To a backdrop of clear, almost surreal blue sky, the chopper is on the run, with a cute pink ribbon only a little girl child could have thought of."
+            },
+            {
+                "image": "RED_LENIN.jpg",
+                "audio": "RED_LENIN.mp3",
+                "title": "RED LENIN",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "This artwork is one of Banksy’s most widely recognized images. As mocking world leaders is part of Banksy’s works, this piece exemplifies how Lenin would look on roller skates, or waist up, with his extended hand in a revolutionary speech he could have been giving. One could also surmise a sense of “humanizing” the individual."
             },
             {
                 "image": "MONKEYQUEEN.jpg",
@@ -758,14 +766,6 @@
                 "shortDesc": "Banksy has placed Guantanamo Bay prisoners in many places but none has come closer to this exemplary piece of powerful juxtaposition in which the kneeling prisoner is overlooking a beautiful, idyllic painting of a seaside with almost hyper realistic crashing waves."
             },
             {
-                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
-                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
-                "title": "FLOWER THROWER CCCP",
-                "year": "2003",
-                "location": "Muro de Belén",
-                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
-            },
-            {
                 "image": "FETISH_LADY.jpg",
                 "audio": "FETISH_LADY.mp3",
                 "title": "FETISH_LADY BAY",
@@ -774,20 +774,20 @@
                 "shortDesc": "This 16th century inspired portrait depicts a seated woman in an antique dress in a classical resting pose in a green, forested setting. A leather mask is the only thing that seems out of place... creating a stark, but incredibly compelling contrast. Perhaps the dress is part of his confinement or perhaps the mask represents the true personality of this character. Whatever the case, Banksy once again offers us a liberated and offbeat interpretation of the classic portraits of the period."
             },
             {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Belén",
+                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
+            },
+            {
                 "image": "PARADISE.jpg",
                 "audio": "PARADISE.mp3",
                 "title": "PARADISE",
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Here we are near one of the observation towers along the separation wall in Ramallah. An opening appears in the wall, like a passage between two worlds, two cultures and two peoples. But it is above all an opening towards freedom, and the blue of the sky for a child who plays in all innocence."
-            },
-            {
-                "image": "STOP_AND_SEARCH.jpg",
-                "audio": "STOP_AND_SEARCH.mp3",
-                "title": "STOP AND SEARCH",
-                "year": "2007",
-                "location": "Entre Israel y Palestina",
-                "shortDesc": "A girl searches a soldier. In these territories between Israel and Palestine, which became one of his favourite stomping grounds, Banksy makes us understand that a more practical approach would be to do the reverse. The original work is topped with a graffiti: ‘Free Palestine’. Beyond the political message that leaves no room for doubt, Banksy invites us to look at the cultural barriers that prevent us from fully appreciating humanity in our neighbour."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",

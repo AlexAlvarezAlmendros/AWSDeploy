@@ -515,14 +515,6 @@
                 "shortDesc": "On peut observer les silhouettes d’un petit garçon et d’une petite fille tenant leurs jouets à la main au sommet d’un tas d’armes. La fillette tient également un ballon rouge en forme de coeur. La simplicité et la force du contraste chromatique confèrent à l’oeuvre beauté et intensité."
             },
             {
-                "image": "RED_LENIN.jpg",
-                "audio": "RED_LENIN.mp3",
-                "title": "RED LENIN",
-                "year": "2007",
-                "location": "",
-                "shortDesc": "Excellant dans l’art de se moquer des dirigeants de ce monde, Banksy représente ici Lénine sur des patins à roulettes, la main tendue comme s’il prononçait l’un de ses discours révolutionnaires. On pourrait également penser que cette oeuvre tente « d’humaniser » le responsable politique qu’il était."
-            },
-            {
                 "image": "FLYING_COPPER.jpg",
                 "audio": "FLYING_COPPER.mp3",
                 "title": "FLYING COPPER",
@@ -545,6 +537,14 @@
                 "year": "2003",
                 "location": "",
                 "shortDesc": "« Happy Chopper » est une oeuvre d’une efficacité redoutable. Un style enfantin qui nous fait presqu’oublier la finalité même de cet engin de guerre. L’hélicoptère affublé d’un joli ruban rose vole dans un ciel bleu azur, presque surréaliste."
+            },
+            {
+                "image": "RED_LENIN.jpg",
+                "audio": "RED_LENIN.mp3",
+                "title": "RED LENIN",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Excellant dans l’art de se moquer des dirigeants de ce monde, Banksy représente ici Lénine sur des patins à roulettes, la main tendue comme s’il prononçait l’un de ses discours révolutionnaires. On pourrait également penser que cette oeuvre tente « d’humaniser » le responsable politique qu’il était."
             },
             {
                 "image": "MONKEYQUEEN.jpg",
@@ -771,14 +771,6 @@
                 "shortDesc": "Banksy a placé des prisonniers de Guantanamo dans de nombreuses oeuvres, mais aucune n’a égalé la force de celle-ci. Ici, le prisonnier est agenouillé sur la plage, un sac en toile couvrant sa tête, devant une mer agitée."
             },
             {
-                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
-                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
-                "title": "FLOWER THROWER CCCP",
-                "year": "2003",
-                "location": "Muro de Belén",
-                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
-            },
-            {
                 "image": "FETISH_LADY.jpg",
                 "audio": "FETISH_LADY.mp3",
                 "title": "FETISH_LADY BAY",
@@ -787,20 +779,20 @@
                 "shortDesc": "This 16th century inspired portrait depicts a seated woman in an antique dress in a classical resting pose in a green, forested setting. A leather mask is the only thing that seems out of place... creating a stark, but incredibly compelling contrast. Perhaps the dress is part of his confinement or perhaps the mask represents the true personality of this character. Whatever the case, Banksy once again offers us a liberated and offbeat interpretation of the classic portraits of the period."
             },
             {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Belén",
+                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
+            },
+            {
                 "image": "PARADISE.jpg",
                 "audio": "PARADISE.mp3",
                 "title": "PARADISE",
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Nous voici près de l’une des tours d’observation le long du mur de séparation à Ramallah. Une ouverture est apparue dans le mur, tel un passage entre deux mondes, deux cultures et deux peuples. Mais c’est avant tout, une ouverture vers la liberté, et le bleu du ciel pour un enfant qui joue en toute innocence."
-            },
-            {
-                "image": "STOP_AND_SEARCH.jpg",
-                "audio": "STOP_AND_SEARCH.mp3",
-                "title": "STOP AND SEARCH",
-                "year": "2007",
-                "location": "Entre Israel y Palestina",
-                "shortDesc": "Une fillette fouille un soldat. Dans ces territoires entre Israël et la Palestine, qui deviendront l’un de ses terrains de jeu favoris, Banksy nous fait comprendre qu’il serait plus réaliste d’assister à l’inverse. L’oeuvre originale est surmontée d’un graffe : “Free Palestine” (Libérez la Palestine). Au-delà du message politique qui ne laisse planer aucun doute, Banksy nous invite à nous pencher sur les barrières culturelles qui nous empêchent de reconnaître pleinement l’humanité en notre prochain."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",

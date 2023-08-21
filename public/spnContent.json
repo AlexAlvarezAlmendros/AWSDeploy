@@ -499,14 +499,6 @@
                 "shortDesc": "Siluetas de un niño y una niña, sosteniendo sus juguetes en la mano, en lo alto de una montaña de armas, la niña sostiene un corazón en forma de globo rojo en una cuerda. Es otra obra que representa a su icónica niña globo. La sencillez y severidad del color. Los contrastes le confieren tanto belleza como un significado más profundo, convirtiéndola en una de las piezas más sombrías del artista."
             },
             {
-                "image": "RED_LENIN.jpg",
-                "audio": "RED_LENIN.mp3",
-                "title": "RED LENIN",
-                "year": "2007",
-                "location": "",
-                "shortDesc": "Esta obra de arte es una de las más reconocidas de Banksy. Como burlarse de los líderes mundiales es parte de las obras de Banksy, esta pieza ejemplifica cómo se vería Lenin en patines, o de cintura para arriba, con su mano extendida en un revolucionario discurso que podría haber estado dando. También se podría suponer un sentido de “humanizar” al individuo."
-            },
-            {
                 "image": "FLYING_COPPER.jpg",
                 "audio": "FLYING_COPPER.mp3",
                 "title": "FLYING COPPER",
@@ -529,6 +521,14 @@
                 "year": "2003",
                 "location": "",
                 "shortDesc": "Una pieza perfectamente ejecutada con detalles vibrantes, es el sueño de guerra de un niño. Esto sin ninguna real comprensión de las implicaciones reales de la guerra. A un telón de fondo de cielo azul claro, casi surrealista, el helicóptero está encendido encabezando la carrera, con una bonita cinta rosa que solo una niña pequeña podría haber pensado."
+            },
+            {
+                "image": "RED_LENIN.jpg",
+                "audio": "RED_LENIN.mp3",
+                "title": "RED LENIN",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Esta obra de arte es una de las más reconocidas de Banksy. Como burlarse de los líderes mundiales es parte de las obras de Banksy, esta pieza ejemplifica cómo se vería Lenin en patines, o de cintura para arriba, con su mano extendida en un revolucionario discurso que podría haber estado dando. También se podría suponer un sentido de “humanizar” al individuo."
             },
             {
                 "image": "MONKEYQUEEN.jpg",
@@ -755,15 +755,6 @@
                 "location": "",
                 "shortDesc": "Banksy ha puesto a prisioneros de Guantánamo en muchos lugares pero ninguno ha llegado más cerca que esta pieza ejemplar de poderosa yuxtaposición en la que el prisionero arrodillado tiene vistas a una hermosa e idílica pintura de un mar con choques de olas casi hiperrealistas."
             },
-            
-            {
-                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
-                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
-                "title": "FLOWER THROWER CCCP",
-                "year": "2003",
-                "location": "Muro de Belén",
-                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
-            },
             {
                 "image": "FETISH_LADY.jpg",
                 "audio": "FETISH_LADY.mp3",
@@ -773,20 +764,20 @@
                 "shortDesc": "This 16th century inspired portrait depicts a seated woman in an antique dress in a classical resting pose in a green, forested setting. A leather mask is the only thing that seems out of place... creating a stark, but incredibly compelling contrast. Perhaps the dress is part of his confinement or perhaps the mask represents the true personality of this character. Whatever the case, Banksy once again offers us a liberated and offbeat interpretation of the classic portraits of the period."
             },
             {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Belén",
+                "shortDesc": "Perhaps an extension of Banksy’s fascination with Lenin, the Flower Chucker is placed here in front of the name of his heritage."
+            },
+            {
                 "image": "PARADISE.jpg",
                 "audio": "PARADISE.mp3",
                 "title": "PARADISE",
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Aquí estamos cerca de una de las torres de vigilancia a lo largo del muro de separación en Ramallah. Aparece una abertura en la pared, como un pasaje entre dos mundos, dos culturas y dos pueblos. Pero es sobre todo una apertura hacia la libertad, y el azul del cielo para un niño que juega con toda inocencia."
-            },
-            {
-                "image": "STOP_AND_SEARCH.jpg",
-                "audio": "STOP_AND_SEARCH.mp3",
-                "title": "STOP AND SEARCH",
-                "year": "2007",
-                "location": "Entre Israel y Palestina",
-                "shortDesc": "Una niña cachea a un soldado. En estos territorios entre Israel y Palestina, que se convirtió en uno de sus terrenos favoritos para realizar obras, Banksy nos hace comprender que un enfoque más práctico sería hacer mostrarnos lo contrario. La obra original se remata con un graffiti: “Free Palestine” (\"Palestina libre\"). Más allá del mensaje político que deja sin lugar a dudas, Banksy nos invita a mirar en las barreras culturales que nos impiden apreciar plenamente la humanidad en nuestro prójimo."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",
