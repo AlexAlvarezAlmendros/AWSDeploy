@@ -683,14 +683,6 @@
                 "shortDesc": "Cette oeuvre représente un léopard s’échappant de sa cage. La cage prend la forme d’un code-barres, dont les bandes servent de barreaux."
             },
             {
-                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
-                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
-                "title": "GET OUT WHILE YOU CAN",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "Ce rat enlace le pinceau comme une demoiselle prête à être embrassée sous le signe de l’amour."
-            },
-            {
                 "image": "FESTIVAL.jpg",
                 "audio": "FESTIVAL.mp3",
                 "title": "FESTIVAL",
@@ -705,6 +697,14 @@
                 "year": "2004",
                 "location": "",
                 "shortDesc": "Située sur la 79e rue et Broadway à Manhattan (Upper West Side) sur le mur du magasin DSW (Designer Shoe Warehouse), il s’agit d’une des œuvres réalisées par Banksy lors de son séjour à New York. Le Hammer Boy a été conservé par l'entreprise locale, propriétaire du magasin. Recouvert de plexiglas, il est devenu un point d'attraction pour les touristes et les amateurs de Banksy. Une simple silhouette noire d'un enfant tenant un marteau, imitant un jeu de foire, où une personne doit atteindre un niveau avec un marteau. L'utilisation par Banksy d'objets simples et ordinaires comme la bouche d'incendie et les panneaux sur le mur est l'une de ses signatures."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Ce rat enlace le pinceau comme une demoiselle prête à être embrassée sous le signe de l’amour."
             },
             {
                 "image": "ROBOT_AND_BARCODE.jpg",
@@ -793,6 +793,14 @@
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Nous voici près de l’une des tours d’observation le long du mur de séparation à Ramallah. Une ouverture est apparue dans le mur, tel un passage entre deux mondes, deux cultures et deux peuples. Mais c’est avant tout, une ouverture vers la liberté, et le bleu du ciel pour un enfant qui joue en toute innocence."
+            },
+            {
+                "image": "GIRL_FRISKING_SOLDIER.jpg",
+                "audio": "GIRL_FRISKING_SOLDIER.mp3",
+                "title": "GIRL FRISKING SOLDIER",
+                "year": "2007",
+                "location": "Muro de Belén",
+                "shortDesc": "A girl searches a soldier. In these territories between Israel and Palestine, which became one of his favourite stomping grounds. Banksy makes us understand that a more practical approach would be to do the reverse. The original work is topped with a graffiti: 'Free Palestine'. Beyond the political message that leaves no room for doubt, Banksy invites us to look at the cultural barriers that prevent us from fully appreciating humanity in our neighbour."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",

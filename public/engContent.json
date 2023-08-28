@@ -251,6 +251,14 @@
                 "shortDesc": "This piece was commissioned by the famous british rock band Blur for the cover of their \"Think Tank\" album, released in 2003. The little girl is wearing a parka jacket and a deep-sea diving helmet, looking down at the yellow bird she is holding with her hand. Usually Banksy avoids any commercial collaboration, he later defended his decision, saying: \"I've done a few things to pay the bills, and I did the Blur album. It was a good record and [the commission was] quite a lot of money. I think that's a really important distinction to make. If it's something you actually believe in, doing something commercial doesn't turn it to shit just because it's commercial. Otherwise you've got to be a socialist rejecting capitalism altogether, because the idea that you can marry a quality product with a quality visual and be a part of that even though it's capitalistic is sometimes a contradiction you can't live with. But sometimes it's pretty symbiotic, like the Blur situation.\""
             },
             {
+                "image": "GREAT_BRITISH_SPRAYCATION.jpg",
+                "audio": "GREAT_BRITISH_SPRAYCATION.mp3",
+                "title": "GREAT BRITISH SPRAYCATION",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "It is a series of artworks that appeared in 2021 in various East Anglian towns. It took a week for Banksy to confirm through a three minutes video on his instagram account that he was behind those artworks. It shows Banksy making his way around the East in a battered left-hand drive campervan, complete with beach windbreaker, ladders and a box full of spray cans. The Rat on deckchair appeared on a seawall on Lowesoft's North beach. Unfortunately, just over a week after its discovery, it had been defaced with white paint, but it's still there, covered with a protective screen. Hermit crabs: Cromer appeared on a sea wall on Cromer beach, a town famous for its crab industry and the expensive cost of housing. At this time, the town had 2,500 people on their housing waiting list and at the same time some 5,400 second homes."
+            },
+            {
                 "image": "GRANNIES.jpg",
                 "audio": "GRANNIES.mp3",
                 "title": "GRANNIES",
@@ -392,7 +400,7 @@
                 "title": "GUN CLOWN",
                 "year": "2016",
                 "location": "Bristol / Reino Unido",
-                "shortDesc": "It appears in Bristol, most notably on Hotwell Road. It shows how a figure of trust can be a representation of violence with in this case a children’s entertainer with weaponry and destruction, innocence can easily be shattered and trust broken."
+                "shortDesc": "It appears in Bristol, most notably on Hotwell Road. It shows how a figure of trust can be a representation of violence with in this case a children's entertainer with weaponry and destruction, innocence can easily be shattered and trust broken."
             }
         ],
         "Floor3": [
@@ -678,14 +686,6 @@
                 "shortDesc": "Banksy has created an artwork that depicts an escaped tiger outside of his cage. The cage has been transformed into a bar code symbol, with the bars themselves being the bar code print."
             },
             {
-                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
-                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
-                "title": "GET OUT WHILE YOU CAN",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "The rat is warning us that the end is nigh, like the monkey carrying the advertorial cardboard in “Laugh Now”."
-            },
-            {
                 "image": "FESTIVAL.jpg",
                 "audio": "FESTIVAL.mp3",
                 "title": "FESTIVAL",
@@ -700,6 +700,14 @@
                 "year": "2004",
                 "location": "",
                 "shortDesc": "Located on 79th Street and Broadway in Manhattan (Upper West Side) on the wall the DSW store (Designer Shoe Warehouse) is one of the art pieces Banksy made during his stay in New York. The Hammer Boy was preserved by the local business, owner of the store. Covered with plexiglass, it became a point of attraction for tourist and fans. A simple black silhouette of a child holding a hammer, imitating the popular carnival game, where a person must hit a level with a hammer. Banksy’s use of artless and ordinary objects as the hydrant and signs on wall is one of his signatures."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "The rat is warning us that the end is nigh, like the monkey carrying the advertorial cardboard in “Laugh Now”."
             },
             {
                 "image": "ROBOT_AND_BARCODE.jpg",
@@ -788,6 +796,14 @@
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Here we are near one of the observation towers along the separation wall in Ramallah. An opening appears in the wall, like a passage between two worlds, two cultures and two peoples. But it is above all an opening towards freedom, and the blue of the sky for a child who plays in all innocence."
+            },
+            {
+                "image": "GIRL_FRISKING_SOLDIER.jpg",
+                "audio": "GIRL_FRISKING_SOLDIER.mp3",
+                "title": "GIRL FRISKING SOLDIER",
+                "year": "2007",
+                "location": "Muro de Belén",
+                "shortDesc": "A girl searches a soldier. In these territories between Israel and Palestine, which became one of his favourite stomping grounds. Banksy makes us understand that a more practical approach would be to do the reverse. The original work is topped with a graffiti: 'Free Palestine'. Beyond the political message that leaves no room for doubt, Banksy invites us to look at the cultural barriers that prevent us from fully appreciating humanity in our neighbour."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",

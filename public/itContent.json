@@ -683,14 +683,6 @@
                 "shortDesc": "Banksy ha creado una obra de arte que representa a un tigre escapado fuera de su jaula. La jaula se ha transformado en un símbolo de código de barras, siendo las barras las mismas de la impresión de código de barras."
             },
             {
-                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
-                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
-                "title": "GET OUT WHILE YOU CAN",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "La rata nos advierte que el final está cerca, como el mono llevando el cartón del publirreportaje en “Laugh Now”."
-            },
-            {
                 "image": "FESTIVAL.jpg",
                 "audio": "FESTIVAL.mp3",
                 "title": "FESTIVAL",
@@ -705,6 +697,14 @@
                 "year": "2004",
                 "location": "",
                 "shortDesc": "Situado en un muro de la tienda DSW (Design Shoe Warehouse), en la calle 79 de Broadway, en el Upper East Side de Manhattan, es una de las obras que Banksy pintó durante su estancia en Nueva York.  El Chico del Martillo ha sido conservado por el propietario de la tienda, que hizo instalar una pantalla de plexiglás y ahora es una atracción para los turistas y los fans. La sencilla silueta del chico hace referencia al popular juego de feria en que una persona intenta enviar un contrapeso lo más alto posible con un golpe seco de martillo. El uso de mobiliario urbano y de objetos ordinarios como bocas de incendios o carteles es una de las firmas de Banksy."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "La rata nos advierte que el final está cerca, como el mono llevando el cartón del publirreportaje en “Laugh Now”."
             },
             {
                 "image": "ROBOT_AND_BARCODE.jpg",
@@ -793,6 +793,14 @@
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Aquí estamos cerca de una de las torres de vigilancia a lo largo del muro de separación en Ramallah. Aparece una abertura en la pared, como un pasaje entre dos mundos, dos culturas y dos pueblos. Pero es sobre todo una apertura hacia la libertad, y el azul del cielo para un niño que juega con toda inocencia."
+            },
+            {
+                "image": "GIRL_FRISKING_SOLDIER.jpg",
+                "audio": "GIRL_FRISKING_SOLDIER.mp3",
+                "title": "GIRL FRISKING SOLDIER",
+                "year": "2007",
+                "location": "Muro de Belén",
+                "shortDesc": "A girl searches a soldier. In these territories between Israel and Palestine, which became one of his favourite stomping grounds. Banksy makes us understand that a more practical approach would be to do the reverse. The original work is topped with a graffiti: 'Free Palestine'. Beyond the political message that leaves no room for doubt, Banksy invites us to look at the cultural barriers that prevent us from fully appreciating humanity in our neighbour."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",

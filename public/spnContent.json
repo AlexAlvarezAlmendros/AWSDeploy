@@ -241,6 +241,22 @@
                 "shortDesc": "Banksy pintó esta obra a mediados de mayo de 2012. Un niño, arrodillado frente a una máquina de coser, arma pancartas compuestas por Union Jacks (la bandera del Reino Unido). Hoy todavía hay tres posibles interpretaciones de esta obra: la primera sería una condena del uso de niños en talleres clandestinos para fabricar mercancías (Banksy señala el dedo entre otros en la cadena de tiendas Poundland). El segundo sería un ataque satírico a la monarquía británica y el Jubileo de Diamante de la Reina Isabel II. La reina celebró 60 años en el trono ese año. Finalmente, podría ser una interpretación directamente vinculada a la organización de los Juegos Olímpicos de Verano de 2012 que se iban a celebrar en Londres unas semanas más tarde, y que en particular vio las tiendas de souvenirs proliferar por toda la ciudad."
             },
             {
+                "image": "SPACE_GIRLS_AND_BIRD.jpg",
+                "audio": "SPACE_GIRLS_AND_BIRD.mp3",
+                "title": "SPACE GIRLS AND BIRD",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "This piece was commissioned by the famous british rock band Blur for the cover of their \"Think Tank\" album, released in 2003. The little girl is wearing a parka jacket and a deep-sea diving helmet, looking down at the yellow bird she is holding with her hand. Usually Banksy avoids any commercial collaboration, he later defended his decision, saying: \"I've done a few things to pay the bills, and I did the Blur album. It was a good record and [the commission was] quite a lot of money. I think that's a really important distinction to make. If it's something you actually believe in, doing something commercial doesn't turn it to shit just because it's commercial. Otherwise you've got to be a socialist rejecting capitalism altogether, because the idea that you can marry a quality product with a quality visual and be a part of that even though it's capitalistic is sometimes a contradiction you can't live with. But sometimes it's pretty symbiotic, like the Blur situation.\""
+            },
+            {
+                "image": "GREAT_BRITISH_SPRAYCATION.jpg",
+                "audio": "GREAT_BRITISH_SPRAYCATION.mp3",
+                "title": "GREAT BRITISH SPRAYCATION",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "It is a series of artworks that appeared in 2021 in various East Anglian towns. It took a week for Banksy to confirm through a three minutes video on his instagram account that he was behind those artworks. It shows Banksy making his way around the East in a battered left-hand drive campervan, complete with beach windbreaker, ladders and a box full of spray cans. The Rat on deckchair appeared on a seawall on Lowesoft's North beach. Unfortunately, just over a week after its discovery, it had been defaced with white paint, but it's still there, covered with a protective screen. Hermit crabs: Cromer appeared on a sea wall on Cromer beach, a town famous for its crab industry and the expensive cost of housing. At this time, the town had 2,500 people on their housing waiting list and at the same time some 5,400 second homes."
+            },
+            {
                 "image": "GRANNIES.jpg",
                 "audio": "GRANNIES.mp3",
                 "title": "GRANNIES",
@@ -667,14 +683,6 @@
                 "shortDesc": "Banksy ha creado una obra de arte que representa a un tigre escapado fuera de su jaula. La jaula se ha transformado en un símbolo de código de barras, siendo las barras las mismas de la impresión de código de barras."
             },
             {
-                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
-                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
-                "title": "GET OUT WHILE YOU CAN",
-                "year": "2004",
-                "location": "",
-                "shortDesc": "La rata nos advierte que el final está cerca, como el mono llevando el cartón del publirreportaje en “Laugh Now”."
-            },
-            {
                 "image": "FESTIVAL.jpg",
                 "audio": "FESTIVAL.mp3",
                 "title": "FESTIVAL",
@@ -689,6 +697,14 @@
                 "year": "2004",
                 "location": "",
                 "shortDesc": "Situado en un muro de la tienda DSW (Design Shoe Warehouse), en la calle 79 de Broadway, en el Upper East Side de Manhattan, es una de las obras que Banksy pintó durante su estancia en Nueva York.  El Chico del Martillo ha sido conservado por el propietario de la tienda, que hizo instalar una pantalla de plexiglás y ahora es una atracción para los turistas y los fans. La sencilla silueta del chico hace referencia al popular juego de feria en que una persona intenta enviar un contrapeso lo más alto posible con un golpe seco de martillo. El uso de mobiliario urbano y de objetos ordinarios como bocas de incendios o carteles es una de las firmas de Banksy."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "La rata nos advierte que el final está cerca, como el mono llevando el cartón del publirreportaje en “Laugh Now”."
             },
             {
                 "image": "ROBOT_AND_BARCODE.jpg",
@@ -778,6 +794,14 @@
                 "year": "2005",
                 "location": "Ramallah",
                 "shortDesc": "Aquí estamos cerca de una de las torres de vigilancia a lo largo del muro de separación en Ramallah. Aparece una abertura en la pared, como un pasaje entre dos mundos, dos culturas y dos pueblos. Pero es sobre todo una apertura hacia la libertad, y el azul del cielo para un niño que juega con toda inocencia."
+            },
+            {
+                "image": "GIRL_FRISKING_SOLDIER.jpg",
+                "audio": "GIRL_FRISKING_SOLDIER.mp3",
+                "title": "GIRL FRISKING SOLDIER",
+                "year": "2007",
+                "location": "Muro de Belén",
+                "shortDesc": "A girl searches a soldier. In these territories between Israel and Palestine, which became one of his favourite stomping grounds. Banksy makes us understand that a more practical approach would be to do the reverse. The original work is topped with a graffiti: 'Free Palestine'. Beyond the political message that leaves no room for doubt, Banksy invites us to look at the cultural barriers that prevent us from fully appreciating humanity in our neighbour."
             },
             {
                 "image": "DONKEY_DOCUMENTS.jpg",
